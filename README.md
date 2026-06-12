@@ -7,12 +7,10 @@ I'm Amir, a Data Scientist/Engineer with expertise in ... Experienced in ...
 
 ## Achievements
 
-🏆 \
+⭐️ 6 month data engineering internship at ASML.\
 🚀 Currently pursuing my Honours certifcation during my Bachelors.\
-🏅 \
-⛰️ \
-🗞️ \
-⭐️ 6 month data engineering internship at ASML.
+⛰️ Built a web app game with a team, as part of a multidisciplinary school project. App got featured on the OUP of Rotterdam.\
+🗞️ Did an end-to-end Machine Learning project in Databricks, where the model was implemented in the frontend by the software team.
 
 ## Professional Experience
 
@@ -38,6 +36,8 @@ Here are some of the tools and technologies I've worked with across backend, fro
 ![MiniZinc](https://img.shields.io/badge/MiniZinc-FF6B35?style=for-the-badge&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
                 
 ### 🗃️ Databases
 
@@ -56,7 +56,7 @@ Here are some of the tools and technologies I've worked with across backend, fro
 ![Delta Live Tables](https://img.shields.io/badge/Delta_Live_Tables-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Medallion Architecture](https://img.shields.io/badge/Medallion_Architecture-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
-### 🛠️ ML/DevOps & Containers
+### 🛠️ MLOps/DevOps & Containers
 
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -65,13 +65,15 @@ Here are some of the tools and technologies I've worked with across backend, fro
 ![CML](https://img.shields.io/badge/CML-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### ⛰️ Project Management
+### 🎨 Design & Modelling
+![Astah](https://img.shields.io/badge/Astah-00A0E9?style=for-the-badge&logoColor=white)
+
+### ⛰️ Project Management, IDE & Extra 
 
 ![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
-
-### 🔒 IDE
-
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ## Fun Facts
 
