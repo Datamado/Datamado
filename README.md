@@ -10,7 +10,7 @@ I'm Amir, a Data Scientist/Engineer with expertise in the medical and logistics 
 * ⭐️ 6 month data engineering internship at ASML.
 * 🚀 Currently pursuing my Honours certification during my Bachelors.
 * ⛰️ Built a web app game with a team, as part of a multidisciplinary school project. App got featured on the OUP of Rotterdam.
-* 🗞️ Did an end-to-end Machine Learning project in Databricks, where the model was implemented in the frontend by the software team.
+* 🗞️ Did an end-to-end Machine Learning project in Databricks, where the model was then implemented by the software team.
 
 ## Professional Experience
 
@@ -77,7 +77,7 @@ Here are some of the tools and technologies I've worked with across backend, fro
 
 ## Fun Facts
 
-* 🔒 Occasional chess player\
+* 🔒 Occasional chess player
 * 📖 Enjoy reading non-fiction books & investing in self-development
 * 🏋️‍♀️ Challenging myself through weight-lifting and running
 * 🚀 Learning to DJ & produce hardcore uptempo music
