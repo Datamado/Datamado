@@ -2,23 +2,23 @@
 
 I'm Amir, a Data Scientist/Engineer with expertise in the medical and logistics field. Experienced in leading school projects, communicating with stakeholders, and implementing juridical and ethical considerations in my projects.
 
-* 📍 Based in Rotterdam, NL\
+* 📍 Based in Rotterdam, NL
 * 📫 Contact me via [LinkedIn](www.linkedin.com/in/amir-de-jesus-amado-7b6b14210)
 
 ## Achievements
 
-* ⭐️ 6 month data engineering internship at ASML.\
-* 🚀 Currently pursuing my Honours certification during my Bachelors.\
-* ⛰️ Built a web app game with a team, as part of a multidisciplinary school project. App got featured on the OUP of Rotterdam.\
+* ⭐️ 6 month data engineering internship at ASML.
+* 🚀 Currently pursuing my Honours certification during my Bachelors.
+* ⛰️ Built a web app game with a team, as part of a multidisciplinary school project. App got featured on the OUP of Rotterdam.
 * 🗞️ Did an end-to-end Machine Learning project in Databricks, where the model was implemented in the frontend by the software team.
 
 ## Professional Experience
 
-* 🗃️ Parttime Junior Data Scientist | Nov 2024 - Present\
-* 🗃️ Data Engineering Internship ASML | Feb 2025 - Jul 2025\
-* 🌐 Member of ADS&AI Advisory Programme Committee | Dec 2024 - Present\
-* 🌐 Student Ambassador ADS&AI | Oct 2023 - Present\
-* 🌐 Peercoach ADS&AI | Oct 2024 - Jun 2025\
+* 🗃️ Parttime Junior Data Scientist | Nov 2024 - Present
+* 🗃️ Data Engineering Internship ASML | Feb 2025 - Jul 2025
+* 🌐 Member of ADS&AI Advisory Programme Committee | Dec 2024 - Present
+* 🌐 Student Ambassador ADS&AI | Oct 2023 - Present
+* 🌐 Peercoach ADS&AI | Oct 2024 - Jun 2025
 * ☁️ Head Bartender | Dec 2022 - Dec 2024
 
 ## Education
@@ -26,7 +26,7 @@ I'm Amir, a Data Scientist/Engineer with expertise in the medical and logistics 
 * 🎓 Currently pursuing a Bachelors in Applied Data Science & AI in Rotterdam, as a Honours student.
 
 ## Languages, Tools & Technologies
-Here are some of the tools and technologies I've worked with across backend, frontend, data, and ML/DevOps:
+Here are some of the tools and technologies I've worked with across backend, frontend, data, and MLOps/DevOps:
 
 ### 💻 Languages & Frameworks
 
@@ -78,9 +78,9 @@ Here are some of the tools and technologies I've worked with across backend, fro
 ## Fun Facts
 
 * 🔒 Occasional chess player\
-* 📖 Enjoy reading non-fiction books & investing in self-development\
-* 🏋️‍♀️ Challenging myself through weight-lifting and running\
-* 🚀 Learning to DJ & produce hardcore uptempo music\
-* 🔥 Did competitive Judo during my youth, where i won medals internationally\
+* 📖 Enjoy reading non-fiction books & investing in self-development
+* 🏋️‍♀️ Challenging myself through weight-lifting and running
+* 🚀 Learning to DJ & produce hardcore uptempo music
+* 🔥 Did competitive Judo during my youth, where i won medals internationally
 * 💻 Started exploring Kaggle competitions
 
