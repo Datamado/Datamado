@@ -1,11 +1,11 @@
-## Hi there 👋
+# Hi there 👋
 
 I'm Amir, a Data Scientist/Engineer with expertise in ... Experienced in ... 
 
 📍 Based in Rotterdam, Netherlands\
 📫 Contact me via [LinkedIn](www.linkedin.com/in/amir-de-jesus-amado-7b6b14210)
 
-### Achievements
+## Achievements
 
 🏆 \
 🚀 Currently pursuing my Honours certifcation during my Bachelors.\
@@ -14,7 +14,7 @@ I'm Amir, a Data Scientist/Engineer with expertise in ... Experienced in ...
 🗞️ \
 ⭐️ 6 month data engineering internship at ASML.
 
-### Professional Experience
+## Professional Experience
 
 🗃️ Parttime Junior Data Scientist | Nov 2024 - Present\
 🗃️ Data Engineering Internship ASML | Feb 2025 - Jul 2025\
@@ -23,29 +23,30 @@ I'm Amir, a Data Scientist/Engineer with expertise in ... Experienced in ...
 🌐 Peercoach ADS&AI | Oct 2024 - Jun 2025\
 ☁️ Head Bartender | Dec 2022 - Dec 2024
 
-### Education
+## Education
 
 🎓 Currently pursuing a Bachelors in Applied Data Science & AI in Rotterdam, as a Honours student.
 
-### Here are some of the tools and technologies I've worked with across backend, frontend, data, and ML/DevOps:
+## Languages, Tools & Technologies
+Here are some of the tools and technologies I've worked with across backend, frontend, data, and ML/DevOps:
 
-#### 💻 Languages & Frameworks
+### 💻 Languages & Frameworks
 
 badges used
                 
-#### 🗃️ Databases
+### 🗃️ Databases
 
         
-#### ☁️ Cloud
+### ☁️ Cloud
 
       
-#### 🔥 Data & Streaming
+### 🔥 Data & Streaming
 
   
-#### 🛠️ ML/DevOps & Containers
+### 🛠️ ML/DevOps & Containers
 
       
-### Fun Facts
+## Fun Facts
 
 🔒 Occasional chess player\
 📖 Enjoy reading non-fiction books & investing in self-development\
